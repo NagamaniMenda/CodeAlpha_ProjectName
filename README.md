@@ -1,35 +1,28 @@
+
 # CodeAlpha_ProjectName
-**Hangman Game:** A simple Python console game where the player guesses a hidden word letter by letter. Correct guesses reveal letters, wrong guesses reduce tries. Fun, beginner-friendly, and interactive with emojis for feedback.
 
-
-Ah! Got it ✅ You want **everything—including code—inside one single Markdown block** so you can just copy-paste into your `README.md`. Here’s the **all-in-one block**:
-
-````markdown
 # 🎮 Hangman Game
 
-## 📌 Description
+<img width="1366" height="768" alt="image" src="hangman.jpg" />
+
+## Description
 A simple Python console game where the player guesses a hidden word one letter at a time. Correct guesses reveal letters, wrong guesses reduce tries. Fun, interactive, and beginner-friendly.
 
-## 🛠️ Features
+## Features
 - Random word selection from a predefined list
 - Keeps track of guessed letters
 - Prevents duplicate guesses
 - Displays remaining tries after each turn
 - Friendly messages with emojis
 
-## ▶️ How to Run
-1. Make sure you have **Python 3** installed.
-2. Save the file as `hangman.py`.
-3. Run in a terminal or command prompt:
-```bash
-python hangman.py
-````
+## How to Run in Jupyter Notebook
+1. Open this repository in Jupyter Notebook or JupyterLab.
+2. Open a new code cell.
+3. Copy and paste the code below into the cell.
+4. Run the cell to start the Hangman game.
+5. Follow the on-screen prompts to guess letters.
 
-4. Follow the on-screen instructions to play.
-
-## 🎯 Example Gameplay
-
-```
+## Example Gameplay
 🎮 Welcome to Hangman Game!
 _ _ _ _ _
 
@@ -42,12 +35,8 @@ Guess a letter: z
 ❌ Wrong guess!
 Word: a _ a _ a
 Remaining tries: 5
-```
 
----
-
-## 📝 Code
-
+## Code
 ```python
 import random
 
@@ -94,24 +83,16 @@ def hangman():
         print("\n🎉 Congratulations! You guessed the word:", word)
     else:
         print("\n💀 Game Over! The word was:", word)
-
-# Start the game
 if __name__ == "__main__":
     hangman()
-```
-<img width="1366" height="768" alt="image" src="C:\Users\u\Desktop" />
 
----
 
-## 📂 Project Info
+Project Info
 
-* **Language:** Python
-* **Type:** Console-based Game
-* **Level:** Beginner-friendly
+Language: Python
 
-```
+Type: Console-based Game
 
-✅ This is **one block** including **description, instructions, example, and exactly your code**. You can copy it straight into `README.md`.  
+Level: Beginner-friendly
 
-If you want, I can also make a **super compact version** where the whole thing fits even cleaner for GitHub. Do you want me to do that?
-```
+    hangman()
