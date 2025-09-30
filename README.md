@@ -3,7 +3,7 @@
 
 # 🎮 Hangman Game
 
-<img width="1366" height="768" alt="image" src="https://github.com/NagamaniMenda/hangman.JPG" />
+![image alt](https://github.com/NagamaniMenda/CodeAlpha_ProjectName/blob/459140f1bd331f935a4ca034f1b2e34dbc22659a/hangman.JPG)
 
 ## Description
 A simple Python console game where the player guesses a hidden word one letter at a time. Correct guesses reveal letters, wrong guesses reduce tries. Fun, interactive, and beginner-friendly.
