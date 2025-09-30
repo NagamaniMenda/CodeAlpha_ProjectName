@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4746e77d-bb92-4797-b377-c9efedcb5ba7" /># CodeAlpha_ProjectName
+# CodeAlpha_ProjectName
 **Hangman Game:** A simple Python console game where the player guesses a hidden word letter by letter. Correct guesses reveal letters, wrong guesses reduce tries. Fun, beginner-friendly, and interactive with emojis for feedback.
 
 
@@ -99,6 +99,7 @@ def hangman():
 if __name__ == "__main__":
     hangman()
 ```
+<img width="1366" height="768" alt="image" src="C:\Users\u\Desktop" />
 
 ---
 
