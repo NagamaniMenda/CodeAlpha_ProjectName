@@ -1,3 +1,16 @@
+Name:MENDA NAGAMANI
+
+company:CodeAlpha Internship program
+
+ID:CA/SE1/3702
+
+DOMAIN:python Programming
+
+DURATION:SEPTEMBER 1 2025 TO SEPTEMBER 30 2025
+
+OVERVIEW OF THE PROJECT:
+
+PROJECT: hangman game using python Programming
 
 # CodeAlpha_ProjectName
 
@@ -94,6 +107,4 @@ Language: Python
 
 Type: Console-based Game
 
-Level: Beginner-friendly
-
-    hangman()
+Level: Beginner-friendly    
